@@ -21,8 +21,9 @@ button {
     padding: 0 16px;
     font-size: 14px;
     height: 36px;
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+    background-color: #adafb1;
+    border: none;
+    border-radius: 30px;
     cursor: pointer;
 }
 
